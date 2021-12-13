@@ -24,21 +24,25 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
   </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="Tensorflow" width="40" height="40"/>
   </a>
   <a href="https://www.kaggle.com/" target="_blank">
     <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png" alt="Kaggle" width="60" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.nodejs.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="NodeJs" width="60" height="40"/>
   </a>
+
 </p>
 
 <!-- Contributions -->
