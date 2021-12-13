@@ -37,7 +37,7 @@
     <img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="Tensorflow" width="40" height="40"/>
   </a>
   <a href="https://www.kaggle.com/" target="_blank">
-    <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png" alt="Kaggle" width="60" height="40"/>
+    <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png" alt="Kaggle" width="70" height="40"/>
   </a>
   <a href="https://www.nodejs.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="NodeJs" width="60" height="40"/>
