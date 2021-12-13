@@ -47,22 +47,6 @@
   </a>
 </p>
 
-<!-- Contributions -->
-<hr/>
-<div align="center">
-
-### Contributions
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajSingh-16&theme=react&hide_border=true&fire=DD2727" alt="UVSingh" /></p>
-</div>
-
-<!-- Github Statistics -->
-<hr/>
-<div align="center">
-  
-### Github Statistics
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuvrajSingh-16&theme=react&show_icons=true&locale=en" alt="UVSingh" /></p>
-</div>
-
 <!-- Most Used language -->
 <hr/>
 <div align="center">
