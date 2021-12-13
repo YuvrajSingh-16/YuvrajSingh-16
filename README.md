@@ -87,5 +87,5 @@
 <div align="center">
 
 ### 30 Days Contribution Graph
-[![licofiS's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuvrajSingh-16&theme=xcode)](https://github.com/licofiS/github-readme-activity-graph)
+[![licofiS's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuvrajSingh-16&theme=xcode)](https://github.com/YuvrajSingh-16/github-readme-activity-graph)
 </div>
