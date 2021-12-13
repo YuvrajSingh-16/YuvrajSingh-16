@@ -23,25 +23,16 @@
 <!-- Languages and Tools -->
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://developer.android.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
+<p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -52,7 +43,7 @@
 <div align="center">
 
 ### Contributions
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=licofis&theme=react&hide_border=true&fire=DD2727" alt="licofis" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajSingh-16&theme=react&hide_border=true&fire=DD2727" alt="UVSingh" /></p>
 </div>
 
 <!-- Github Statistics -->
@@ -60,7 +51,7 @@
 <div align="center">
   
 ### Github Statistics
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=licofis&theme=react&show_icons=true&locale=en" alt="licofis" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuvrajSingh-16&theme=react&show_icons=true&locale=en" alt="UVSingh" /></p>
 </div>
 
 <!-- Most Used language -->
@@ -68,7 +59,7 @@
 <div align="center">
   
 ### Most Used language
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=licofis&theme=react&show_icons=true&locale=en&layout=compact" alt="licofis" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuvrajSingh-16&theme=react&show_icons=true&locale=en&layout=compact" alt="licofis" /></p>
 </div>
 
 
@@ -77,7 +68,7 @@
 
 <div align="center">
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=licofis&theme=onedark&column=7" alt="licofis" />
+    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=YuvrajSingh-16&theme=onedark&column=7" alt="licofis" />
   </a>
 </div>
 
@@ -87,7 +78,7 @@
 <div align="center">
 
 ### 30 Days Contribution Graph
-[![licofiS's github activity graph](https://activity-graph.herokuapp.com/graph?username=licofiS&theme=xcode)](https://github.com/licofiS/github-readme-activity-graph)
+[![licofiS's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuvrajSingh-16&theme=xcode)](https://github.com/licofiS/github-readme-activity-graph)
 </div>
 
 <!-- Details -->
