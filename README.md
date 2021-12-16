@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuvraj </h1>
 <h3 align="center">I love to build things for a better cause ❤️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=licofis&label=Profile%20views&color=0e75b6&style=flat" alt="licofis" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YuvrajSingh-16&label=Profile%20views&color=0e75b6&style=flat" alt="UVSinghK" /> </p>
 
 
 - 🌱 I’m currently learning **AWS & BigData**
