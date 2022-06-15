@@ -89,3 +89,7 @@
 ### 30 Days Contribution Graph
 [![licofiS's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuvrajSingh-16&theme=xcode)](https://github.com/YuvrajSingh-16/github-readme-activity-graph)
 </div>
+
+## Watch my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/YuvrajSingh-16/YuvrajSingh-16/blob/output/github-contribution-grid-snake.gif)
+
