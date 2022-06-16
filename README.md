@@ -87,7 +87,7 @@
 <div align="center">
 
 ### 30 Days Contribution Graph
-[![YuvrajSingh-16's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuvrajSingh-16&theme=xcode)](https://github.com/YuvrajSingh-16/github-readme-activity-graph)
+[![YuvrajSingh-16's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuvrajSingh-16&theme=xcode)]
 </div>
 
 ## Watch my contribution graph get eaten by the snake 🐍
