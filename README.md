@@ -18,6 +18,17 @@
 <a href="https://www.facebook.com/yuvrajsingh.kiraula.16/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samik.2025" height="30" width="40" />
   </a>
+  <a href="https://twitter.com/YuvrajS59177227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YuvrajS59177227" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/uv.singhk_16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uv.singhk_16" height="30" width="40" /></a>
+  
+ <a href="https://www.codechef.com/users/yuvrajsk1602" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="knockcat_1" height="30" width="40" /></a>
+  
+ <a href="https://www.hackerrank.com/YuvrajSinghK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="YuvrajSinghK" height="30" width="40" /></a>
+  
+<a href="https://leetcode.com/UVSinghK/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="UVSinghK" height="30" width="40" /></a>
+  
+<a href="https://www.hackerearth.com/@yuvrajsinghk1602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@yuvrajsinghk1602" height="30" width="40" /></a>
 </p>
 
 <!-- Languages and Tools -->
