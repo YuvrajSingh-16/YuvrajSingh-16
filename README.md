@@ -11,7 +11,7 @@
 - 📫 Reach me here **yuvrajsinghk1602@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/yuvraj-singh-kiraula-5819a2196/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samik15" height="30" width="40" />
   </a>
@@ -34,7 +34,7 @@
 <!-- Languages and Tools -->
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
