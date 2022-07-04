@@ -76,7 +76,7 @@
 <div align="center">
 
 ### Contributions
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajSingh-16&theme=react" alt="UVSingh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajSingh-16&theme=react&fire=DD2727" alt="UVSingh" /></p>
 </div>
 
 <!-- Github Statistics -->
@@ -84,7 +84,7 @@
 <div align="center">
   
 ### Github Statistics
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuvrajSingh-16&theme=react&fire=DD2727" alt="UVSingh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuvrajSingh-16&theme=react" alt="UVSingh" /></p>
 </div>
 
 <!-- Most Used language -->
