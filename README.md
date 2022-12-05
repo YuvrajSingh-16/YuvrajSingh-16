@@ -83,18 +83,18 @@
 <hr/>
 <div align="center">
   
-### Github Statistics
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuvrajSingh-16&theme=react" alt="UVSingh" /></p>
+<!-- ### Github Statistics -->
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YuvrajSingh-16&theme=react" alt="UVSingh" /></p>
 </div>
-
+ -->
 <!-- Most Used language -->
-<hr/>
+<!-- <hr/>
 <div align="center">
   
 ### Most Used language
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuvrajSingh-16&theme=react&show_icons=true&locale=en&layout=compact" alt="UVSingh" /></p>
 </div>
-
+ -->
 
 <!-- Trophy -->
 <hr/>
@@ -108,11 +108,11 @@
 <!-- Activity Graph -->
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
 
 ### 30 Days Contribution Graph
 [![YuvrajSingh-16's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuvrajSingh-16&theme=react-dark)](https://github.com/YuvrajSingh-16/github-readme-activity-graph)
-</div>
+</div> -->
 
 <!-- ## Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/YuvrajSingh-16/YuvrajSingh-16/blob/output/github-contribution-grid-snake.gif) -->
