@@ -1,3 +1,5 @@
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://YuvrajSingh-16.github.io)
+
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px"/>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
@@ -239,7 +241,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/YuvrajSingh-16/" target="_blank">
+  <a href="https://www.linkedin.com/in/yuvraj-singh-kiraula-5819a2196/" target="_blank">
     <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
   </a>
   <a href="https://www.facebook.com/YuvrajSingh-16/" target="_blank">
@@ -258,7 +260,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <br/>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/YuvrajSingh-16/" target="_blank">
+  <a href="https://www.hackerrank.com/YuvrajSinghK/" target="_blank">
     <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
   </a>
 
