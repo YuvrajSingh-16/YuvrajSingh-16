@@ -97,13 +97,17 @@
  -->
 
 <!-- Trophy -->
-<hr/>
+#
 
-<div align="center">
-  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=YuvrajSingh-16&theme=onedark&column=7" alt="UVSingh" />
-  </a>
-</div>
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=YuvrajSingh-16&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+
+<p align="center">
+  <img height="150" width="150" src="https://github.com/YuvrajSingh-16/YuvrajSingh-16/blob/master/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajSingh-16&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/YuvrajSingh-16/YuvrajSingh-16/blob/master/WEBP/right.webp">
+</p>
+
+#
 
 <!-- Activity Graph -->
 <hr/>
