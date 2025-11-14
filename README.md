@@ -12,10 +12,11 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
 
-- 🔭 I’m currently learning **AI Agents**
+- 🔭 I'm currently learning **AI Agents**
 - 💬 Ask me about **Databricks, Python, Machine learning, AI, Data Science**
+- 👯 I'm looking to collaborate on AI Agents, Databricks, Machine Learning, LLM.
 - 📫 Reach me here **yuvrajsinghk1602@gmail.com**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/YuvrajSingh-16/YuvrajSingh-16/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 Ask me Anything [here](https://github.com/YuvrajSingh-16/YuvrajSingh-16/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
 <br/>
 <br/>
@@ -98,7 +99,6 @@
 
 <br/>
 
-#
 
 <details open="">
 <summary>
@@ -116,7 +116,7 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=YuvrajSingh-16&theme=react-dark&hide_border=true&area=true)
 
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+<!-- ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg) -->
 
 <h4 align="center">
   
@@ -155,7 +155,7 @@
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@YuvrajSingh-16/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" />
+<!-- <img align="right" height="330px" width="450px" src="https://wakatime.com/share/@YuvrajSingh-16/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" /> -->
 
 <br>
 <br>
@@ -234,7 +234,7 @@ R                        1 repo              ░░░░░░░░░░░�
  Last Updated on 14/11/2025 02:53:36 UTC
 <!--END_SECTION:waka-->
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@YuvrajSingh-16/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
   <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@YuvrajSingh-16/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
 </p>
@@ -244,7 +244,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <p align="center">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>  
   <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img width="75%" src="metrics.svg"/>
