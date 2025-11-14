@@ -227,10 +227,10 @@ R                        1 repo              ░░░░░░░░░░░�
   <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="75%" src="metrics.svg"/>
   <img src="metrics.detailed.svg" width="75%"/>
-</p>
+</p> -->
 
 <h1>
   Connect With Me
@@ -274,7 +274,7 @@ R                        1 repo              ░░░░░░░░░░░�
     <code><img height="60" width="60" src="SVG/cc.svg"/></code>
   </a>
   
-  <a href="https://leetcode.com/YuvrajSingh-16/" target="_blank">
+  <a href="https://leetcode.com/UVSinghK/" target="_blank">
     <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
   </a>
 </p>
